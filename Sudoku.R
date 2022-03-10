@@ -38,3 +38,5 @@ existeDansCarre<-function(x, numMat, i, j){
   return(FALSE)
 }
 
+
+
